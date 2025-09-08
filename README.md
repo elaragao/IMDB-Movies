@@ -137,7 +137,7 @@ Para reproduzir este projeto em sua própria máquina, siga os passos abaixo:
 ### 1 - Clone o repositório e vá até ele
 
 ```bash
-git clone https://github.com/SEU_USUARIO/IMBD-Movies.git
+git clone https://github.com/elaragao/IMDB-Movies.git
 cd IMBD-Movies
 ```
 
