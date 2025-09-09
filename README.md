@@ -123,10 +123,50 @@ Este projeto foi desenvolvido utilizando um conjunto de ferramentas e biblioteca
 <!------------------------------------------------------>
 ## 6 - Principais Insights do EDA
 
+### Título × Nota IMDB e Faturamento
+
+
+
+
+a
+
+
+
+
+### Gênero × Nota IMDB e Faturamento médios
+
+
 
 <!------------------------------------------------------>
 ## 7 - Principais Insights da Modelagem
 
+### Comparando Modelos
+
+- Os seguintes modelos foram utilizados para comparar e escolher o ideal para o problema:
+  - Dummy Regressor
+  - Linear Regressor
+  - Decision Tree
+  - Random Forest
+  - KNN
+  - XGB
+  - LGBM
+ 
+
+<img src="images/boxplot_models.png" width="700">
+
+
+
+
+### Desempenho do melhor modelo ajustado
+- O melhor modelo entre os testados foi o LGBM, obtendo as seguintes pontuações após o fine tunning
+
+| Metrica   | Score    |
+|-----------|----------|
+| R2        | 0.54 |
+| MAE       | -0.14 |
+| MSE       | -0.03 |
+| RMSE      | -0.18 |
+| MAPE      | -0.02 |
 
 <!------------------------------------------------------>
 ## 8 - Execute este projeto em sua máquina local
