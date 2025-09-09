@@ -128,7 +128,9 @@ Este projeto foi desenvolvido utilizando um conjunto de ferramentas e biblioteca
 
 
 
-a
+|True Fraud|Flagged Fraud|
+|-------------------------------------|-------------------------------------|
+| ![AUROC](images/imdb_title.png) | ![AUPRC](images/gross_title.png) |
 
 
 
@@ -152,7 +154,6 @@ a
   - LGBM
  
 
-<img src="images/boxplot_models.png" width="700">
 
 
 
