@@ -217,14 +217,14 @@ O projeto segue a seguinte estrutura:
 
 ```bash
 ├── datasets
-│   └── desafio_indicium_imdb   <- Base de dados utilizada no projeto
-├── images                      <- Visualizações salvas durante o EDA e modelagem
-├── models                      <- Modelos treinados e salvos (pickle)
+│   └── desafio_indicium_imdb   # Base de dados utilizada no projeto
+├── images                      # Visualizações salvas durante o EDA e modelagem
+├── models                      # Modelos treinados e salvos (pickle)
 ├── notebooks
-│   ├── EDA.ipynb               <- Análise exploratória dos dados
-│   ├── Modeling.ipynb          <- Modelagem preditiva e avaliação
-├── README.md                   <- Documentação principal do projeto
-├── requirements.txt            <- Lista de dependências do projeto
+│   ├── EDA.ipynb               # Análise exploratória dos dados
+│   ├── Modeling.ipynb          # Modelagem preditiva e avaliação
+├── README.md                   # Documentação principal do projeto
+├── requirements.txt            # Lista de dependências do projeto
 ```
 
 
