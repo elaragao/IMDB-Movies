@@ -125,19 +125,22 @@ Este projeto foi desenvolvido utilizando um conjunto de ferramentas e biblioteca
 
 ### Título × Nota IMDB e Faturamento
 
+#### Título × Nota IMDB
+<img src="images/imdb_title.png" width="700">
 
-
-
-|True Fraud|Flagged Fraud|
-|-------------------------------------|-------------------------------------|
-| ![AUROC](images/imdb_title.png) | ![AUPRC](images/gross_title.png) |
+#### Título × Faturamento
+<img src="images/gross_title.png" width="700">
 
 
 
 
 ### Gênero × Nota IMDB e Faturamento médios
 
+#### Gênero × Nota IMDB Média
+<img src="images/imdb_title.png" width="700">
 
+#### Gênero × Faturamento Médio
+<img src="images/gross_title.png" width="700">
 
 <!------------------------------------------------------>
 ## 7 - Principais Insights da Modelagem
