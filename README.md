@@ -123,24 +123,34 @@ Este projeto foi desenvolvido utilizando um conjunto de ferramentas e biblioteca
 <!------------------------------------------------------>
 ## 6 - Principais Insights do EDA
 
+
 ### Título × Nota IMDB e Faturamento
 
-#### Título × Nota IMDB
+#### Título × Faturamento
+- A maior nota foi 9.2, e foi alcançada pelo filme The Godfather (O Poderoso Chefão)
+  
 <img src="images/imdb_title.png" width="700">
 
 #### Título × Faturamento
+- O filme de maior faturamento foi Star Wars VII - The Force Awakens, arrecadando 900 Milhões de dólares e quase 100 Milhões de dólares a mais que o segundo colocado, Avengers: The Endgame
+  
 <img src="images/gross_title.png" width="700">
-
 
 
 
 ### Gênero × Nota IMDB e Faturamento médios
 
 #### Gênero × Nota IMDB Média
-<img src="images/imdb_title.png" width="700">
+- As notas médias do IMDB são muto próximas por gênero, indicando uma pouca influência deste como fator da nota.
+  
+<img src="images/imdb_mean_genre.png" width="700">
 
 #### Gênero × Faturamento Médio
-<img src="images/gross_title.png" width="700">
+- Os gêneros de maior faturametno são Aventura, Ficção Científica e Ação.
+  
+<img src="images/gross_mean_genre.png" width="700">
+
+
 
 <!------------------------------------------------------>
 ## 7 - Principais Insights da Modelagem
@@ -156,7 +166,7 @@ Este projeto foi desenvolvido utilizando um conjunto de ferramentas e biblioteca
   - XGB
   - LGBM
  
-
+<img src="images/boxplot_models.png" width="700">
 
 
 
